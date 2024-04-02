@@ -24,8 +24,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   Bem-vindo ao Café Aleatório, um espaço digital onde um grupo
   de amigos compartilha suas experiências, opiniões e descobertas.
   Ou seja, um pouco de tudo! Junte-se a nós, pegue sua xícara de café (ou chá, se preferir!) e vamos nessa!
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/cafealeatorio" # the subpath of your site, e.g. /blog
+url: "https://edwinnrm.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: The_coding_cat
 github_username:  EdwinNRM
 
