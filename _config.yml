@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Pegue sua xícara de café (ou chá, se preferir!) e vamos nessa!
 baseurl: "/cafealeatorio" # the subpath of your site, e.g. /blog
 url: "https://edwinnrm.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: The_coding_cat
+# twitter_username: The_coding_cat
 github_username:  EdwinNRM
 
 # Build settings
