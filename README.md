@@ -1,4 +1,4 @@
-<img src="./_images/logo.jpg" alt="Logo Café Aleatório" width="100" height="100">
+<img src="./images/logo.jpg" alt="Logo Café Aleatório" width="100" height="100">
 
 # Café Aleatório
 
