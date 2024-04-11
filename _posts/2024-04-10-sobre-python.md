@@ -4,7 +4,7 @@ title:  "Um pouco sobre python"
 date:   2024-04-10 23:20:00 -0300
 categories: programação
 ---
-2
+
 Python é uma linguagem de programação de alto nível, interpretada e dinamicamente tipada, conhecida por sua sintaxe simples e legibilidade. Desenvolvida por Guido van Rossum e lançada em 1991, Python ganhou destaque devido à sua versatilidade e ecossistema robusto.
 
 ## Tá mas e dai?
