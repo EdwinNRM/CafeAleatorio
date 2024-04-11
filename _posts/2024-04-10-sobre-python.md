@@ -20,7 +20,7 @@ Por exemplo temos as seguintes vantagens:
 
 ## Bom se é fácil e bom desse jeito então bora usar python em tudo!
 
-Calma meu Csharpo, nem tudo são flores!
+### Calma meu Csharpo, nem tudo são flores!
 
 <p align="center">
     <img src="{{ site.baseurl }}/images/python.jpeg" alt="Programador de python mais fraco" width="480" height="480">
