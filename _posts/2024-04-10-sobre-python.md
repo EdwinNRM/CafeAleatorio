@@ -35,9 +35,6 @@ Apesar das vantagens de facilidade na hora de escrever um código e até mesmo s
 ## Fiquei confuso, eu aprendo ou não o python?
 
 ### Depende!
-<p align="center">
-    <img src="{{ site.baseurl }}/images/risada.jpg" alt="Dev Senior de java rindo" width="250" height="250">
-</p>
 
 O python é simples, versátil, poderoso em alguns tipos de aplicações e com toda certeza do mundo tem seu charme. Afinal quem não gosta de identação usando espaços no lugar de ; não é mesmo?
 
