@@ -4,7 +4,7 @@ title:  "Um pouco sobre python"
 date:   2024-04-10 23:20:00 -0300
 categories: programação
 ---
-
+2
 Python é uma linguagem de programação de alto nível, interpretada e dinamicamente tipada, conhecida por sua sintaxe simples e legibilidade. Desenvolvida por Guido van Rossum e lançada em 1991, Python ganhou destaque devido à sua versatilidade e ecossistema robusto.
 
 ## Tá mas e dai?
@@ -22,7 +22,9 @@ Por exemplo temos as seguintes vantagens:
 
 Calma meu Csharpo, nem tudo são flores!
 
-<img src="{{ site.baseurl }}/images/python.jpeg" alt="Programador de python mais fraco" width="250" height="250">
+<p align="center">
+    <img src="{{ site.baseurl }}/images/python.jpeg" alt="Programador de python mais fraco" width="480" height="480">
+</p>
 
 Apesar das vantagens de facilidade na hora de escrever um código e até mesmo simplicidade, o python conta com algumas desvantagens (Vamos deixar de lado os testemunhos de python e focar na linguagem).
 
@@ -33,8 +35,9 @@ Apesar das vantagens de facilidade na hora de escrever um código e até mesmo s
 ## Fiquei confuso, eu aprendo ou não o python?
 
 ### Depende!
-
-<img src="{{ site.baseurl }}/images/risada.jpg" alt="Dev Senior de java rindo" width="250" height="250">
+<p align="center">
+    <img src="{{ site.baseurl }}/images/risada.jpg" alt="Dev Senior de java rindo" width="250" height="250">
+</p>
 
 O python é simples, versátil, poderoso em alguns tipos de aplicações e com toda certeza do mundo tem seu charme. Afinal quem não gosta de identação usando espaços no lugar de ; não é mesmo?
 
