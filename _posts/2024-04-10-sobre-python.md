@@ -2,7 +2,7 @@
 layout: post
 title:  "Um pouco sobre python"
 date:   2024-04-10 23:20:00 -0300
-categories: programação
+categories: programacao
 ---
 
 Python é uma linguagem de programação de alto nível, interpretada e dinamicamente tipada, conhecida por sua sintaxe simples e legibilidade. Desenvolvida por Guido van Rossum e lançada em 1991, Python ganhou destaque devido à sua versatilidade e ecossistema robusto.
@@ -54,3 +54,5 @@ E como dica, pega a visão e instala o drive! Você pode começar a aprender pyt
 - [freeCodeCamp](https://www.freecodecamp.org/news/learn-python-free-python-courses-for-beginners/)
 
 Então, pegue sua xícara de café (ou chá, se preferir!) e vamos nessa!
+
+Um abraço do seu amigo do bairro, TheCodingCat.

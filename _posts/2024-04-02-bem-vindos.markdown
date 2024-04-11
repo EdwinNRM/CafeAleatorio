@@ -16,4 +16,4 @@ Além disso, estamos muito abertos à participação de vocês, nossos leitores!
 
 Então, pegue sua xícara de café (ou chá, se preferir!) e vamos nessa!
 
-<img src="{{ site.baseurl }}/images/logo.jpg" alt="Logo Cafe Aleatorio" width="100" height="100">
+Um abraço do seu amigo do bairro, TheCodingCat.
