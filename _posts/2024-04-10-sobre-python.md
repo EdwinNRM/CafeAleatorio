@@ -29,7 +29,7 @@ Por exemplo temos as seguintes vantagens:
 Apesar das vantagens de facilidade na hora de escrever um código e até mesmo simplicidade, o python conta com algumas desvantagens (Vamos deixar de lado os testemunhos de python e focar na linguagem).
 
 - Desempenho relativo em comparação com outras linguagens compiladas principalmente em cenários que você tenta fritar seu computador de tanto que usa o processador (Que saudade do meu C#)
-- O GIL, seu interpratador não se da bem com multiplos threads, prinipalmente em casos de concorrência
+- O GIL, seu interpratador não se da bem com multiplos threads, principalmente em casos de concorrência
 - Problemas com aplicações de baixo nível quando se trata de gerenciamento automático de memória
 
 ## Fiquei confuso, eu aprendo ou não o python?
