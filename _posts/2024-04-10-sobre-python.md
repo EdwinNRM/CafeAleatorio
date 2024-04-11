@@ -22,7 +22,7 @@ Por exemplo temos as seguintes vantagens:
 
 Calma meu Csharpo, nem tudo são flores!
 
-<img src="{{ site.baseurl }}/images/memes/python.jpg" alt="Programador de python mais fraco" width="250" height="250">
+<img src="{{ site.baseurl }}/images/python.jpg" alt="Programador de python mais fraco" width="250" height="250">
 
 Apesar das vantagens de facilidade na hora de escrever um código e até mesmo simplicidade, o python conta com algumas desvantagens (Vamos deixar de lado os testemunhos de python e focar na linguagem).
 
@@ -34,7 +34,7 @@ Apesar das vantagens de facilidade na hora de escrever um código e até mesmo s
 
 ### Depende!
 
-<img src="{{ site.baseurl }}/images/memes/rindo.jpg" alt="Dev Senior de java rindo" width="250" height="250">
+<img src="{{ site.baseurl }}/images/rindo.jpg" alt="Dev Senior de java rindo" width="250" height="250">
 
 O python é simples, versátil, poderoso em alguns tipos de aplicações e com toda certeza do mundo tem seu charme. Afinal quem não gosta de identação usando espaços no lugar de ; não é mesmo?
 
