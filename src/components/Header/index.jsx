@@ -10,9 +10,11 @@ export default () => {
         <img className="w-10 h-10" src={logo} alt="logo-img" /> 
       </div>
       <span className="text-3xl font-nsmono font-semibold ml-10 text-zinc-50">Café Aleatôrio</span>
-      <button className="ml-auto w-52 py-1 px-5 items-center justify-center flex bg-zinc-600 rounded-md hover:bg-zinc-500 transition-colors">
+      <button 
+        className="ml-auto w-52 py-1 px-5 items-center justify-center flex bg-zinc-700 rounded-md hover:bg-zinc-600 transition-colors"
+        onClick={() => {alert("alou")}}>  
         <MdOutlineCoffeeMaker size={40} className="text-zinc-50"/>
-        <span className="text-sm font-nsmono text-left ml-5 text-zinc-50">Aceita uma xícara?</span>
+        <span className="text-sm font-nsmono text-left ml-6 text-zinc-50">Aceita uma xícara?</span>
       </button>
     </div>
   )

@@ -7,7 +7,9 @@ export default () => {
   return (
     <div className="flex flex-col min-h-screen">
       <Header />
-      <Feed />
+      <div className="flex flex-grow justify-center bg-zinc-300">
+        <Feed />
+      </div>
     </div>
   )
 }
