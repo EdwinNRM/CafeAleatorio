@@ -1,3 +1,6 @@
+# ola
+## mundo
+
 salve!
 
 Olá a todos e sejam muito bem-vindos ao Café Aleatório, o novo espaço digital que estamos criando com muito entusiasmo. Aqui, eu, Edwin, junto com alguns amigos, estamos embarcando em uma jornada emocionante para compartilhar nossas paixões, interesses e aprendizados com vocês, nossos leitores.
