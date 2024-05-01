@@ -1,3 +1,9 @@
 {
-  "names": ["Bem vindos", "Sobre python"] 
+  "posts": [{
+    "name": "Bem vindo",
+    "fileName": "2024-04-02-bem-vindos.md"
+  }, {
+    "name": "Sobre python",
+    "fileName": "2024-04-10-sobre-python.md"
+  }]
 }
