@@ -5,15 +5,16 @@ Python é uma linguagem de programação de alto nível, interpretada e dinamica
 Por ser uma linguagem de sintaxe simples ela é amplamente utilizada tanto no meio acadêmico, como linguagem base para o ensino de algoritimos e programação, quanto como ferramenta "mão na roda" para análise de dados dentro de empresas.
 
 Por exemplo temos as seguintes vantagens:
-
-- Legibilidade e Expressividade
-- Ecossistema abuntante (Menos que o JavaScript que só enquanto você lia 34 frameworks novos que fazem a mesma coisa foram criados...)
-- Multiplataforma
-- Facilidade em integrações
+* Legibilidade e Expressividade
+* Ecossistema abuntante (Menos que o JavaScript que só enquanto você lia 34 frameworks novos que fazem a mesma coisa foram criados...)
+* Multiplataforma
+* Facilidade em integrações
 
 ## Bom se é fácil e bom desse jeito então bora usar python em tudo!
+---
 
 ### Calma meu Csharpo, nem tudo são flores!
+---
 
 <p align="center">
     <img src="https://github.com/Dan0Silva/cafealeatorio/blob/main/src/assets/images/python.jpeg" alt="Programador de python mais fraco" width="480" height="480">
