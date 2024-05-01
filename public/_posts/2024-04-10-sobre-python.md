@@ -14,7 +14,7 @@ Por exemplo temos as seguintes vantagens:
 
 ### Calma meu Csharpo, nem tudo são flores!
 
-![python](/src/assets/images/python.jpeg)
+![python](https://images7.memedroid.com/images/UPLOADED471/6469166cc979b.jpeg)
 
 Apesar das vantagens de facilidade na hora de escrever um código e até mesmo simplicidade, o python conta com algumas desvantagens (Vamos deixar de lado os testemunhos de python e focar na linguagem).
 
