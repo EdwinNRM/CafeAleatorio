@@ -11,10 +11,8 @@ Por exemplo temos as seguintes vantagens:
 * Facilidade em integrações
 
 ## Bom se é fácil e bom desse jeito então bora usar python em tudo!
----
 
 ### Calma meu Csharpo, nem tudo são flores!
----
 
 <p align="center">
     <img src="https://github.com/Dan0Silva/cafealeatorio/blob/main/src/assets/images/python.jpeg" alt="Programador de python mais fraco" width="480" height="480">
