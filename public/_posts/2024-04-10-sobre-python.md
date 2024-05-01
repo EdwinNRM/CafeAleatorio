@@ -39,9 +39,8 @@ Como eu disse, sempre a escolha da Stack ou linguagem depende da sua finalidade.
 
 E como dica, pega a visão e instala o drive! Você pode começar a aprender python totalmente de graça nesses links que o tio vai te disponibilizar e vai ter conteúdo em inglês sim, pra ver se você estuda um pouco:
 
-- [Sololearn](https://www.sololearn.com/)
-
-- [freeCodeCamp](https://www.freecodecamp.org/news/learn-python-free-python-courses-for-beginners/)
+> [Sololearn](https://www.sololearn.com/)
+> [freeCodeCamp](https://www.freecodecamp.org/news/learn-python-free-python-courses-for-beginners/)
 
 Então, pegue sua xícara de café (ou chá, se preferir!) e vamos nessa!
 
