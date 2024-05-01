@@ -1,3 +1,5 @@
+# ALOO MUNDO
+
 Olá a todos e sejam muito bem-vindos ao Café Aleatório, o novo espaço digital que estamos criando com muito entusiasmo. Aqui, eu, Edwin, junto com alguns amigos, estamos embarcando em uma jornada emocionante para compartilhar nossas paixões, interesses e aprendizados com vocês, nossos leitores.
 
 Como engenheiro de software em formação, sempre fui fascinado pelo poder da tecnologia e pela maneira como ela molda nosso mundo. Mas, assim como um bom café, a vida é uma mistura de sabores e aromas diversos. Por isso, este blog não se limitará apenas a discussões sobre códigos e algoritmos (embora isso certamente tenha seu espaço aqui!), mas também abordará uma variedade de temas, desde ciência e arte até viagens e gastronomia.
