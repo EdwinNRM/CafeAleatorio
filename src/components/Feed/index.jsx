@@ -5,11 +5,12 @@ import Markdown from "react-markdown";
 import remarkGfm from "remark-gfm";
 
 import { BiArrowBack } from "react-icons/bi";
+import { MdOutlineCoffeeMaker } from "react-icons/md";
 
 import api from "../../api/api";
 
 async function getPost(postName) {
-  const res = await api.get(`/${postName}`);
+  const res = await api.get(`/_posts/${postName}`);
   if (res) {
     return res.data;
   } else {
@@ -72,10 +73,19 @@ export default () => {
       className="flex-grow flex flex-row bg-zinc-400 max-h-[82svh] mx-28 my-12 rounded-xl 
       overflow-hidden shadow-md max-w-screen-lg"
     >
-      <div className="w-24 bg-zinc-900 pt-16">
-        <div className="w-14 h-5 bg-zinc-400 z-10 absolute rounded-xl ml-[-22px]" />
-        <div className="w-14 h-5 bg-zinc-400 z-10 absolute rounded-xl mt-[40px] ml-[-22px]" />
-        <div className="w-14 h-5 bg-zinc-400 z-10 absolute rounded-xl mt-[80px] ml-[-22px]" />
+      <div className="w-24 bg-zinc-900 pt-5 flex justify-center">
+        <div className="w-6 h-6 bg-zinc-300 absolute rounded-xl ml-[-42px]" />
+        <div className="w-6 h-6 bg-zinc-300 absolute rounded-xl ml-[-42px] mt-10" />
+        <div className="w-6 h-6 bg-zinc-300 absolute rounded-xl ml-[-42px] mt-20" />
+        <button
+          className="h-12 w-12 hover:bg-zinc-600 bg-zinc-700 rounded-lg items-center justify-center flex mt-auto mb-6"
+          onClick={() => {
+            setIsShowingContent(true);
+            getPost("aboult.md").then(setThisPost);
+          }}
+        >
+          <MdOutlineCoffeeMaker size={32} className="text-zinc-50" />
+        </button>
       </div>
 
       <div className="flex-grow flex-col bg-zinc-50 shadow-inner px-6 py-7">

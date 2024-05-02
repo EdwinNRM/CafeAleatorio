@@ -1,8 +1,8 @@
 import axios from "axios";
 
 const api = axios.create({
-  baseURL:"https://raw.githubusercontent.com/Dan0Silva/cafealeatorio/main/public/_posts"
-})
+  baseURL:
+    "https://raw.githubusercontent.com/Dan0Silva/cafealeatorio/main/public",
+});
 
-export default api
-
+export default api;
