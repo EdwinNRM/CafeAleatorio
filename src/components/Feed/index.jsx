@@ -10,7 +10,7 @@ import { MdOutlineCoffeeMaker } from "react-icons/md";
 import api from "../../api/api";
 
 async function getPost(postName) {
-  const res = await api.get(`/_posts/${postName}`);
+  const res = await api.get(`${postName}`);
   if (res) {
     return res.data;
   } else {
@@ -35,7 +35,7 @@ export default () => {
             className="text-2xl hover:text-sky-500 transition font-medium text-sky-700 underline"
             onClick={() => {
               setIsShowingContent(true);
-              getPost(element.fileName).then(setThisPost);
+              getPost(`/_posts/${element.fileName}`).then(setThisPost);
             }}
           >
             {element.name}
@@ -81,7 +81,7 @@ export default () => {
           className="h-12 w-12 hover:bg-zinc-600 bg-zinc-700 rounded-lg items-center justify-center flex mt-auto mb-6"
           onClick={() => {
             setIsShowingContent(true);
-            getPost("aboult.md").then(setThisPost);
+            getPost("/aboult.md").then(setThisPost);
           }}
         >
           <MdOutlineCoffeeMaker size={32} className="text-zinc-50" />
