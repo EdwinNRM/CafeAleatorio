@@ -1,0 +1,38 @@
+@tailwind base;
+
+@layer base {
+  h1 {
+    @apply text-4xl;
+    @apply font-semibold;
+    @apply mb-3
+  }
+  h2 {
+    @apply text-2xl;
+    @apply font-semibold;
+    @apply mb-3
+  }
+  h3 {
+    @apply text-xl;
+    @apply font-semibold;
+    @apply mb-3
+  }
+  ul {
+    @apply list-disc;
+    @apply list-inside;
+    @apply mb-3 
+  }
+  p {
+    @apply mb-3
+  }
+  img {
+    @apply max-h-96;
+    @apply max-w-96    
+  }
+  a {
+    @apply text-blue-700;
+    @apply underline
+  }
+}
+
+@tailwind components;
+@tailwind utilities;
